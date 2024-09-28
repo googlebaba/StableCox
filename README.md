@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/864352564.svg)](https://doi.org/10.5281/zenodo.13852489)
+
 # System Requirements
 ## Hardware requirements
 `Stable Cox' package requires only a standard computer with enough RAM to support the in-memory operations.
