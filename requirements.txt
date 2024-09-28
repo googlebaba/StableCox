@@ -1,0 +1,105 @@
+astor==0.8.1
+autograd==1.6.2
+autograd-gamma==0.5.0
+blessed==1.20.0
+Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+cgroups==0.1.0
+chardet==5.2.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cloudpickle==3.0.0
+cmake==3.27.4.1
+colorama==0.4.6
+contextlib2==21.6.0
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1694444244250/work
+cycler==0.11.0
+dnspython==2.4.2
+ecos @ file:///croot/ecos_1677702164573/work
+et-xmlfile==1.1.0
+filelock==3.11.0
+fonttools==4.42.1
+formulaic==0.6.4
+future==0.18.3
+gpustat==1.1.1
+graphlib-backport==1.0.3
+hyperopt==0.1.2
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==7.0.1
+importlib-resources==6.0.1
+interface-meta==1.3.0
+Jinja2==3.1.2
+joblib @ file:///croot/joblib_1685113087166/work
+json-tricks==3.17.3
+kiwisolver==1.4.5
+lifelines==0.27.8
+lit==16.0.6
+MarkupSafe==2.1.3
+matplotlib==3.7.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath==1.3.0
+networkx==3.1
+nni==2.5
+numexpr @ file:///croot/numexpr_1683221822650/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-ml-py==12.535.133
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+openpyxl==3.1.2
+osqp @ file:///croot/osqp_1687877015289/work
+packaging @ file:///croot/packaging_1693575174725/work
+pandas @ file:///croot/pandas_1692289311655/work
+Pillow==10.0.0
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+pooch @ file:///croot/pooch_1695850093751/work
+prettytable==3.9.0
+psutil==5.9.6
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pymongo==4.6.1
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.0.9
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+PythonWebHDFS==0.2.3
+pytz @ file:///croot/pytz_1695131579487/work
+PyYAML==6.0.1
+qdldl @ file:///croot/qdldl-python_1687874402357/work
+requests @ file:///croot/requests_1690400202158/work
+responses==0.24.1
+schema==0.7.5
+scikit-learn @ file:///croot/scikit-learn_1690978916802/work
+scikit-survival @ file:///usr/share/miniconda/conda-bld/scikit-survival_1696771186775/work
+scipy==1.10.1
+seaborn==0.12.2
+simplejson==3.19.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0.post9
+sympy==1.12
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.66.1
+triton==2.0.0
+typeguard==4.1.2
+typing_extensions==4.7.1
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+ucimlrepo==0.0.3
+urllib3 @ file:///croot/urllib3_1698257533958/work
+wcwidth==0.2.9
+websockets==12.0
+wrapt==1.15.0
+zipp @ file:///croot/zipp_1672387121353/work
