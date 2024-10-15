@@ -13,10 +13,10 @@ This package is supported for *Linux*. The package has been tested on the follow
 'Stable Cox' mainly depends on the Python scientific stack.
 
 ```
-lifelines
-numpy
-pandas
-scikit-learn
+lifelines=0.27.8
+numpy=1.20.3
+pandas=2.0.3
+scikit-learn=1.3.0
 ```
 
 # Installation Guide
