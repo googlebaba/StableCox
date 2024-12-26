@@ -8,6 +8,9 @@
 ### OS requirements
 This package is supported for *Linux*. The package has been tested on the following system:
 + Linux: Ubuntu 18.04
+## directly install StableCox via pip
+pip install StableCox
+Tutorial on the package please see: https://pypi.org/project/StableCox/0.3/
 
 ### Python Dependencies
 'Stable Cox' mainly depends on the Python scientific stack.
